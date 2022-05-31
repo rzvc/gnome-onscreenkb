@@ -1,0 +1,8 @@
+{
+  "name": "OnScreenKBButton",
+  "description": "Toggles the on screen keyboard.",
+  "uuid": "onscreenkb@rzvc",
+  "shell-version": [
+    "42"
+  ]
+}
